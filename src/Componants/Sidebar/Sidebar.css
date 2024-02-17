@@ -1,0 +1,21 @@
+.MuiButtonBase-root.MuiIconButton-root{
+  color: white !important;
+}
+.MuiButtonBase-root.MuiIconButton-root:hover{
+  color: #181818 !important;
+  transition: .2s ease-in-out;
+
+}
+.lowend{
+  display: flex;
+  color: beige;
+  padding:0px;
+  margin-top:220px;
+  margin-bottom:0px;
+  overflow: hidden;
+}
+p{
+  margin-top: 5px;
+  margin-right: 30px;
+}
+
